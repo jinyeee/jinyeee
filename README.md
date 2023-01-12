@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 헤더 예시
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 -->
+## Tech Stack
+>뱃지 생성...
  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/뱃지-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black"><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyeee)](https://github.com/jinyeee/github-readme-stats) 
