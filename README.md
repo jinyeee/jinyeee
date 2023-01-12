@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyeee)](https://github.com/jinyeee/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=u20150180@smart2study.org)](https://solved.ac/u20150180@smart2study.org/)  //백준아이디
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=u20150180@smart2study.org)](https://solved.ac/u20150180@smart2study.org/) <!-- //백준아이디-->
 
 
 
