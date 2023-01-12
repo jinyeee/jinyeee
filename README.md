@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+
 
  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/뱃지-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black"><br>
