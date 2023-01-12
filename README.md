@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 ## Tech Stack
 >뱃지 생성...
 
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/뱃지-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black"><br>
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyeee)](https://github.com/jinyeee/github-readme-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyeee&show_icons=true&theme=radical) <!-- //스탯-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=u20150180@smart2study.org)](https://solved.ac/u20150180@smart2study.org/) <!-- //백준아이디-->
