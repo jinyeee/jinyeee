@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 나는 깃 초보 👋
 
 <!--
 **jinyeee/jinyeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
