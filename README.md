@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=E3ACF9&height=300&section=header&text=jinyeee%git&fontSize=90)<br> <!-- //헤더-->
+![header](https://capsule-render.vercel.app/api?type=wave&color=E3ACF9&height=300&section=header&text=jinyeee%&fontSize=90)<br> <!-- //헤더-->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/뱃지-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black"><br>
