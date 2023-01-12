@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyeee)](https://github.com/jinyeee/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyeee)](https://github.com/jinyeee/github-readme-stats) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=u20150180@smart2study.org)](https://solved.ac/u20150180@smart2study.org/) <!-- //백준아이디-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyeee)](https://github.com/jinyeee/github-readme-stats)
+
 
 
 
