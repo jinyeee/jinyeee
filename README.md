@@ -1,9 +1,13 @@
 <!--
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=B5D5C5&height=300&section=header&text=jinyeee%&fontSize=90&fontColor=EAC7C7)<br> <!-- //헤더-->
+-->
 
+<!--
  헤더 예시
  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 -->
+
+
 ## Tech Stack
 >뱃지 생성...
 
