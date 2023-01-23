@@ -24,7 +24,7 @@
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=u20150180@smart2study.org)](https://solved.ac/u20150180@smart2study.org/)  //백준아이디-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyeee)](https://github.com/jinyeee/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyeee)](https://github.com/jinyeee/github-readme-stats) -->
 <!--    //아이디 경로 오류 -> 왜 나는지 검색해도 안 나온다...    -->
 
 
