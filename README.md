@@ -1,5 +1,5 @@
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=B5D5C5&height=300&section=header&text=yejin'sgithub%&fontSize=90&fontColor=EAC7C7)<br> 
+<div align="center">
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=B5D5C5&height=200&section=header&text=jinyeee%&fontSize=90&fontColor=EAC7C7)<br> 
 
 <!--
  헤더 예시
@@ -9,12 +9,12 @@
 
 
 ## ✨Tech Stack✨
-<div align="center">
+
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
 
-</div>
+
 
 
 
@@ -25,7 +25,7 @@
 
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyeee&show_icons=true&theme=cobalt) <!-- //스탯-->
+
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=u20150180@smart2study.org)](https://solved.ac/u20150180@smart2study.org/)  //백준아이디-->
 
@@ -61,6 +61,7 @@
 <img src="https://img.shields.io/badge/css-red?style=for-the-badge&logo=HTML5&logoColor=white">
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyeee&show_icons=true&theme=cobalt) <!-- //스탯-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
