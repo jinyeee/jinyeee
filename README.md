@@ -1,5 +1,5 @@
-<!--
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=B5D5C5&height=300&section=header&text=jinyeee%&fontSize=90&fontColor=EAC7C7)<br> <!-- //헤더-->
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=B5D5C5&height=300&section=header&text=jinyeee%&fontSize=90&fontColor=EAC7C7)<br> <!-- //헤더
 
 
 <!--
@@ -59,7 +59,7 @@
 
 
 <img src="https://img.shields.io/badge/css-red?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/css-red?style=for-the-badge&logo=HTML5&logoColor=white">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
