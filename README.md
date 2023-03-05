@@ -1,4 +1,4 @@
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=B5D5C5&height=200&section=header&text=jinyeee%&fontSize=90&fontColor=EAC7C7)<br> 
 
 <!--
@@ -7,7 +7,9 @@
 
 -->
 
-
+<div align="center">
+ 
+ 
 ## ✨Tech Stack✨
 
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -34,9 +36,9 @@
 
 
 
-<div align="center">
+
          <img src="https://img.shields.io/badge/쓰고자하는_텍스트-       컬러코드?style=flat-square&logo=simpleicons에서_#6DB33F&logoColor=white"/></a>
-</div>
+
 
 
 
