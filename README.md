@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=B5D5C5&height=300&section=header&text=jinyeee%&fontSize=90&fontColor=EAC7C7)<br> <!-- //헤더
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=B5D5C5&height=300&section=header&text=yejin's github%&fontSize=90&fontColor=EAC7C7)<br> <!-- //헤더
 
 
 <!--
