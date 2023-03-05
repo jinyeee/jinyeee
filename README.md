@@ -34,4 +34,33 @@
 
 
 
+<div align="center">
+         <img src="https://img.shields.io/badge/쓰고자하는_텍스트-       컬러코드?style=flat-square&logo=simpleicons에서_#6DB33F&logoColor=white"/></a>
+</div>
+
+
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+```
+```null
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+```
+
+```null
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+```
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+
+
+<img src="https://img.shields.io/badge/css-red?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/css-red?style=for-the-badge&logo=HTML5&logoColor=white">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
