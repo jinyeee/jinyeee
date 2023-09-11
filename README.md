@@ -8,11 +8,13 @@
 -->
 
 <div align="center">
- 
+
+ <!--
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=B5D5C5&height=200&section=header&text=jinyeee%&fontSize=90&fontColor=EAC7C7)<br> 
 ## ✨Tech Stack✨
 
 
+-->
  
 <img src="https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
